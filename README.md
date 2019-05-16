@@ -22,3 +22,4 @@ Write a function that takes in a string and outputs an object. The object needs 
 Sample Input:
 
 characterCounter("People") // { p: 2, e: 2, o: 1, l: 1 }
+characterCounter("Sally sells shells by the seashore") // { s: 7, a: 2, l: 6, y: 2, e: 5, h: 3, b: 1, t: 1, o: 1, r: 1 }
